@@ -46,3 +46,5 @@ This script uses the Open Trivia DB https://opentdb.com/api_config.php to fetch 
 
 This script is provided as-is and is intended for educational purposes only. The accuracy and availability of trivia questions and answers are dependent on the trivia API used.
 
+## Link to Demo video
+https://www.loom.com/share/58bba99eb095475da457938b15ae4baa?sid=3a42ba05-7d9a-400c-8584-6f86405c60b1
