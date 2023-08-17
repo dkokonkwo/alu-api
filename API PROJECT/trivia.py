@@ -19,7 +19,7 @@ while difficulty not in ['easy', 'medium']:
     elif difficulty == 'm':
         difficulty = 'medium'
     else:
-        print("please input 'e', 'm' or 'h'")
+        print("please input 'e' or 'm'")
 
 api_endpoint = f"https://opentdb.com/api.php?amount=10&category=22&difficulty={difficulty}&type=boolean"
 api_info = requests.get(
